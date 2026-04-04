@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Enisz!
 
-<!--
-**enisz/enisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/enisz?label=follow&style=social)](https://github.com/enisz)
 
-Here are some ideas to get you started:
+### A bit about my stack...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const enisz = {
+  core: ['Typescript', 'Javascript', 'Angular', 'Node.js', 'Java'],
+  frontend: {
+    frameworks: ['Angular (18+)', 'React'],
+    reactivity: ['Signals', 'RxJS', 'Zoneless'],
+    architecture: ['Nx Monorepo', 'Micro-Frontends']
+  },
+  backend: ['NestJS', 'Spring Boot', 'Express.js'],
+  database: ['MongoDB', 'MySQL', 'MSSQL'],
+  tools: ['Docker', 'GitLab CI/CD', 'Jira', 'GitHub Copilot'],
+  challenge: 'Mastering Java microservices & optimizing zoneless Angular reactivity'
+}
+```
